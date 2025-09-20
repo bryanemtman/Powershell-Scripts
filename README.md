@@ -1,1 +1,1 @@
-# collection-python-projects
+# Python Projects
